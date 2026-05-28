@@ -43,7 +43,8 @@ export default function LuxuryDentistPage() {
 
       <div id="hero" data-section="hero">
         <HeroSplitKpi
-          title="California's Premier Luxury Dental Practice"
+          title="Dhenkanal's                                                                              first                                                                                           
+Dental Practice"
           description="Experience world-class cosmetic and restorative dentistry with cutting-edge technology. Our award-winning dentists are committed to creating stunning smiles with personalized care and exceptional attention to detail."
           tag="Excellence Since 2005"
           tagIcon={Sparkles}
@@ -154,7 +155,7 @@ export default function LuxuryDentistPage() {
       <div id="testimonials" data-section="testimonials">
         <TestimonialCardSix
           title="What Our Patients Say"
-          description="Discover why hundreds of California's discerning patients trust us for their dental care and smile transformations"
+          description=""
           tag="Patient Reviews"
           textboxLayout="default"
           useInvertedBackground={false}
@@ -164,7 +165,7 @@ export default function LuxuryDentistPage() {
               id: "1",
               name: "Jennifer Martinez",
               handle: "San Diego Patient",
-              testimonial: "The most professional and caring dental experience I've ever had. The results exceeded my expectations and the attention to detail is extraordinary.",
+              testimonial: "",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/luxury-travel-agency/testimonial/testimonial1.webp",
               imageAlt: "Jennifer Martinez"
             },
